@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OnlineOrdering</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="order_form_arbuz">Оформление заказа</string>
+    <string name="status_arbuz">Cтатус арбуза:</string>
+    <string name="weight_arbuz">Вес арбуза:</string>
+    <string name="quantity_arbuz">Количество:</string>
+    <string name="delivery_address">Адрес доставки</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="delivery_date">Дата доставки</string>
+    <string name="delivery_time">Время доставки</string>
+    <string name="order">Заказать</string>
+    <string name="cut_into_slices">Порезать дольками</string>
+    <string name="date_time">Время доставки</string>
+    <string name="thanks_for_order">СПАСИБО ЗА ЗАКАЗ</string>
+    <string name="application_accepted">Ваша заявка принята</string>
+</resources>
